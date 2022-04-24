@@ -1,8 +1,5 @@
 
 
-from pydoc import plain
-from xmlrpc.client import Boolean
-
 class ClassicalCipher:
 
   def __init__(self, plain):
